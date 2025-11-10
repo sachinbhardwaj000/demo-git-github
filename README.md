@@ -1,2 +1,2 @@
 # demo-git-github
-first time use git/github for practice
+first time use git/github for practice.
